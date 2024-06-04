@@ -4,6 +4,6 @@
     class MainPageHelper
     {
         public function helper(){
-            return "привет, это главная страница!";
+            return "привет, это главная страница, v22!";
         }
     }
